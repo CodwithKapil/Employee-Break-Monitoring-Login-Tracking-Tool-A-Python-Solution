@@ -1,4 +1,4 @@
-#Crystalvoxx Employee Monitor
+# Employee Monitor
 Overview
 
 The Crystalvoxx Employee Monitor is a powerful tool designed to boost productivity and transparency in the workplace. It offers a suite of features to gain insights into employee activities during work hours. From user authentication to break monitoring, this tool ensures compliance with company policies while prioritizing user privacy and data security.
